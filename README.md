@@ -9,6 +9,7 @@ The code was implemented in python 3.
 # Installation
 To run it, you must have the following libraries installed:
 
-- numpy
+- NumPy
 - pandas
 - matplotlib
+- scikit-learn
